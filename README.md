@@ -18,15 +18,15 @@ La base de Datos **Discográfica Prominence** está diseñado para gestionar y o
 
 
 - **Crea la base de datos en MySQL.**
-`(CREATE DATABASE medi-Sistema;)`
+`(CREATE DATABASE Chinook;)`
 
 - **Luego selecciona esta base de datos como la predeterminada.**
-`(USE medi_Sistema;)`
+`(USE Chinook;)`
    
 - **Importa el archivo SQL proporcionado para generar las tablas y datos iniciales.**.
 - Abre MySQL Workbench (si no lo has hecho ya).
 - En el menú principal, selecciona la opción File > Open SQL Script.
-- Navega a la ubicación donde se encuentra el archivo `((medi_Sistema.sql))` y selecciónalo.
+- Navega a la ubicación donde se encuentra el archivo `((dql.sql))` y selecciónalo.
 - Esto abrirá el contenido del archivo en el editor de texto dentro de MySQL Workbench.
 
 - **Ejecuta el script.**
